@@ -1,1 +1,1 @@
-# RxKotlin-Study
+# Reactive X Study
